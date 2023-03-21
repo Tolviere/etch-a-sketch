@@ -25,7 +25,7 @@ function createGrid(gridSize) {
     }
 }
 
-createGrid();
+createGrid(16);
 
 let mouseUp = true;
 
